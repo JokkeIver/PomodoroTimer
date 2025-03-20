@@ -1,0 +1,61 @@
+# Compiled class files
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+*.out
+
+# macOS system files
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+/nbproject/private/
+/build/
+/dist/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Java temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# LSP / Neovim
+.jdt/
+.jdtls/
+.metals/
+
+# Coverage reports
+coverage/
+*.coverage
+*.cov
